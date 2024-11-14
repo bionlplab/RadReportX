@@ -28,18 +28,16 @@ model:
 # Tokenizer
 tokenizer:
   _component_: torchtune.models.llama3.llama3_tokenizer
-  path: /prj0129/yiw4018/chestxray/fine_tune/Meta-Llama-3-8B-Instruct/original/tokenizer.model
+  path: 
 
 checkpointer:
   _component_: torchtune.utils.FullModelMetaCheckpointer
-  checkpoint_dir: /prj0129/yiw4018/chestxray/fine_tune/Meta-Llama-3-8B-Instruct/original/
+  checkpoint_dir: 
   checkpoint_files: [
     consolidated.00.pth
   ]
   recipe_checkpoint: null
-  # output_dir: /prj0129/yiw4018/chestxray/fine_tune/lora_mimic_findings_only_result/  # result folder
-  # output_dir: /prj0129/yiw4018/chestxray/entity_extraction/lora_findings_only_1000/
-  output_dir: /prj0129/yiw4018/chestxray/mix_data/lr_3e_4/entity_0_mimic_10000/
+  output_dir: 
   model_type: LLAMA3
 resume_from_checkpoint: False
 save_adapter_weights_only: False
@@ -49,7 +47,7 @@ dataset:
   _component_: torchtune.datasets.instruct_dataset
   source: json
   template: torchtune.data.AlpacaInstructTemplate
-  data_files: /prj0129/yiw4018/chestxray/mimic/final_fine_tune_data/mimic_fine_tune_10000.json
+  data_files: ./data/entity_9000_mimic_4500.json
   split: train
 seed: null
 shuffle: True
@@ -59,10 +57,7 @@ batch_size: 2
 optimizer:
   _component_: torch.optim.AdamW
   weight_decay: 0.01
-  lr: 3e-4  # baseline
-  # lr: 8e-5 
-  # lr: 3e-7
-  # lr: 1e-7
+  lr: 3e-4
 lr_scheduler:
   _component_: torchtune.modules.get_cosine_schedule_with_warmup
   num_warmup_steps: 100
@@ -71,8 +66,7 @@ loss:
   _component_: torch.nn.CrossEntropyLoss
 
 # Training
-epochs: 1  # default
-# epochs: 2
+epochs: 1
 max_steps_per_epoch: null
 gradient_accumulation_steps: 64
 compile: False

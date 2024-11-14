@@ -1,0 +1,939 @@
+study_id,subject_id,note,mimic_label,negbio_label,human_label1,human_label2,Additional_Findings
+58085167,18874374,"FINDINGS: A cluster of heterogeneous opacities in the right lower lung has 
+ has continued to grow since ___. 
+   Otherwise, the lungs are clear. Moderate cardiomegaly, including severe left
+ atrial enlargement is chronic; there is no pulmonary vascular congestion or
+ edema. The thoracic aorta is heavily calcified.  There may be a new small,
+ right pleural effusions or pneumothorax.
+ IMPRESSION: Slowly progressive chronic right pneumonia, could be exogenous
+ lipoid pneumonia, but tuberculosis is in the differential.  CT scanning
+ recommended.  Nurse ___ and I discussed the findings and their
+ clinical significance by telephone at the time of dictation.",Pneumonia,Pneumonia,"Cardiomegaly, pneumonia, lung opacity","Cardiomegaly, pneumonia, lung opacity",
+57798090,16957952,"FINDINGS: Heterogeneous left basilar opacities do not have a correlate on the
+ lateral radiograph and are likely minimal atelectasis.  The lungs are
+ otherwise clear.  Mild pulmonary vascular congestion is not accompanied
+ interstitial edema or pleural abnormality.  Mild to moderate cardiomegaly is
+ chronic.  The thoracic aorta is generally enlarged, very tortuous and
+ moderately calcified but neither focally aneurysmal nor changed since at least
+ ___.  The patient has had midline sternotomy and CABG.  A right cervical
+ rib is seen.  Multilevel degenerative changes of the thoracic spine include
+ unchanged wedging of a lower thoracic vertebral body.
+ IMPRESSION: 1.  Mild left basal atelectasis; no pneumonia.
+ 
+ 2.  Chronic mild to moderate cardiomegaly and pulmonary venous hypertension,
+ but no pulmonary edema.
+ 
+ 3.  Chronically enlarged atherosclerotic thoracic aorta, with no focal
+ aneurysm.","Enlarged Cardiomediastinum, Cardiomegaly, Atelectasis","Atelectasis, Cardiomegaly","Atelectasis, Cardiomegaly, lung opacity,","Atelectasis, cardiomegaly",
+50020371,15758946,"FINDINGS: Frontal and lateral views of the chest are obtained.  Left-sided
+ Port-A-Cath is again seen, terminating at the distal SVC/cavoatrial junction. 
+ Persistent blunting of the right costophrenic angle is seen.  Chain sutures
+ are again noted in the right mid lung.  No new focal consolidation, large
+ pleural effusion, or evidence of pneumothorax is seen.  Cardiac and
+ mediastinal silhouettes are stable, as are hilar contours.  Old right rib
+ deformity is again seen involving posterior right eighth rib.  Known lesion in
+ the right scapula is better assessed on CT.
+ IMPRESSION: No acute cardiopulmonary process.",,,"lung lesion, Support Devices",Support devices,Scapular lesion
+59039129,19182863,"FINDINGS: Frontal and lateral views of the chest are obtained.  The patient
+ is status post median sternotomy and aortic and tricuspid valve repair.  There
+ has been interval development/increase in bilateral, right greater than left,
+ pleural effusions with overlying atelectasis.  Right base opacity may relate
+ to effusion and atelectasis, although underlying consolidation cannot be
+ excluded.  The cardiac silhouette remains mildly enlarged.  The aorta is
+ calcified and tortuous.  Displaced anterolateral left second rib fracture is
+ again seen.  There is minimal pulmonary vascular congestion.
+ IMPRESSION: Interval increase/development of bilateral, right greater than
+ left, pleural effusions with overlying atelectasis.  Right base opacity may be
+ due to a combination of pleural effusion and atelectasis, however, underlying
+ consolidation cannot be excluded.  Cardiomegaly and minimal pulmonary vascular
+ congestion.","Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion","Atelectasis, Cardiomegaly, Lung Opacity, Pleural Effusion","Cardiomegaly, Lung Opacity, Atelectasis, Pleural Effusion, fracture","Pleural effusion, atelectasis, fracture, cardiomegaly",
+54193371,16662264,"FINDINGS: The lungs are clear without consolidation or edema.  An ill-defined
+ density projecting adjacent to the cardiac apex is likely nipple shadow. 
+ Mediastinum is unremarkable.  The cardiac silhouette is within normal limits
+ for size.  No effusion or pneumothorax is noted.  The visualized osseous
+ structures are unremarkable.
+ IMPRESSION: No acute pulmonary process.",,,,,
+51526655,17704774,"FINDINGS: Consistent with the given history, a chest tube is noted and is
+ directed medially in the upper mediastinum with a location that is highly
+ suggestive of intrafissural placement.  There is increased lucency at the lung
+ base, particularly outlining the right hemidiaphragm, which likely indicates a
+ residual component of the pneumothorax.  Diffuse bilateral pulmonary nodules
+ consistent with widespread metastatic disease are again present.  There is air
+ noted around a ray cage device in the lower thoracic spine, surrounded by
+ posterior spinal stabilization rods.  Extensive surgical clips are noted
+ within the medial left upper quadrant.  It is difficult to discern the left
+ hemidiaphragm.  There is increased retrocardiac opacity, although similar to
+ the prior exam.  A Port-A-Cath is evident in stable and standard course and
+ position.  The osseous structures are difficult to assess, but are grossly
+ stable.
+ IMPRESSION: The course of the chest tube projecting over the right chest
+ suggests an intrafissural position, which may limit the ability to evacuate
+ the pneumothorax.  A visceral pleural line remains evident and most apparent
+ at the lung base with an extension of the air to the spinal hardware as noted
+ on the CT earlier today.  Widespread metastatic disease of the lungs is again
+ seen.  There is no radiographic evidence currently of tension physiology.","Lung Lesion, Support Devices","Pneumothorax, Support Devices"," Lung Opacity, Support Devices","Lung opacity, support devices, pneumothorax",
+58324748,16855430,"FINDINGS: As similar to multiple prior exams, there is a relative hazy
+ density in the bilateral hilar regions with pulmonary vascular indistinctness.
+ The hemidiaphragms are not well defined.  The cardiomediastinal silhouette is
+ markedly enlarged with widening superiorly and an enlarged cardiac silhouette
+ inferiorly.  The patient's chin overlies the lung apices, limiting the
+ evaluation.  No gross pneumothorax is seen.
+ IMPRESSION: Limited study due to body habitus.  There are low lung volumes
+ which result in bronchovascular crowding, but beyond that there is likely
+ moderate pulmonary edema presumably cardiogenic in etiology.  There may also
+ be small bilateral pleural effusions.","Edema, Pleural Effusion",Edema,Cardiomegaly,Cardiomegaly,
+53038366,14855790,"FINDINGS: The lungs are clear.  The heart size is normal.  Mediastinal
+ contours are normal.  There are no pleural abnormalities.  Degenerative
+ changes of the thoracic spine are seen.
+ IMPRESSION: No acute cardiac or pulmonary process.",,,,,
+59968351,13475033,"FINDINGS: Lung volumes are slightly low, causing exaggeration of the heart
+ size and accentuation of the pulmonary vasculature.  Diffuse bilateral
+ interstitial opacities are consistent with mild pulmonary edema.  The heart is
+ mildly enlarged, as before.  The descending thoracic aorta is slightly
+ tortuous, unchanged.  There is a right tunneled IJ catheter ending in the
+ right atrium.  No pleural effusions.  No pneumothorax.  Stable mid-thoracic
+ compression fracture.
+ IMPRESSION: 1.  Mild interstitial pulmonary edema.
+ 
+ 2.  Unchanged mild cardiomegaly.","Cardiomegaly, Edema",Edema,"Cardiomegaly, Edema, Fracture,
+Support Devices","Cardiomegaly, fracture, edema, support devices ",
+52971492,13023326,"FINDINGS: PA and lateral chest views were obtained with patient in upright
+ position.  Analysis is performed in direct comparison with the next preceding
+ PA and lateral chest examination of ___.  Whereas the described
+ changes in the right hemithorax are stable, the left-sided basal pleural
+ density has decreased markedly and the left-sided diaphragmatic contour is now
+ identified both on frontal and lateral view.  No evidence of pneumothorax in
+ the apical areas on either side.
+ IMPRESSION: Successful thoracocentesis removing major portion of left-sided
+ pleural effusion.  No pneumothorax following thoracocentesis.",Pleural Effusion,Pleural Effusion,Pleural Effusion,Pleural effusion,
+53520984,16043637,"FINDINGS: Frontal and lateral views of the chest were obtained.  The patient
+ is status post median sternotomy and aortic valve replacement.  There is
+ minimal bibasilar atelectasis.  No focal consolidation, pleural effusion, or
+ pneumothorax is seen.  Cardiac and mediastinal silhouettes are unremarkable.
+ IMPRESSION: No acute cardiopulmonary process.",,,"Atelectasis, Support Devices","Support devices, atelectasis",
+58056251,11565803,"FINDINGS: AP single view of the chest has been obtained with patient in
+ sitting semi-upright position.  In comparison with the next preceding chest
+ examination of ___, the ETT has been removed.  Previously
+ existing chest tube on the left side and advanced from below has been removed.
+ No pneumothorax has developed in the apical area.  Mild obscuration of
+ left-sided diaphragm suggestive of some postoperative small amount of pleural
+ effusion, but no other new abnormalities are identified.  A right-sided
+ internal jugular approach central venous line remains in place.  Its
+ termination point projects into the upper portion of the right atrium.  This
+ position is unchanged compared with the previous study.
+ IMPRESSION: No evidence of pneumothorax following chest tube removal.",,,"Pleural Effusion, Support Devices","Pleural effusion, support devices",
+54164323,11928692,"FINDINGS: There is a left pacemaker with appropriately positioned right
+ atrial and right ventricular leads.  The heart is moderately enlarged,
+ increased in size compared to ___.  There is pulmonary venous
+ congestion with cephalization and predominantly perihilar heterogeneous
+ opacities, consistent with mild interstitial pulmonary edema.  No pleural
+ effusions or pneumothorax.  Possible slight loss of height of a upper mid
+ thoracic vertebral body would be unchanged compared to ___.
+ IMPRESSION: Mild interstitial pulmonary edema thought to be cardiogenic in
+ etiology given increased moderate cardiomegaly.","Cardiomegaly, Edema","Cardiomegaly, Edema","Edema, Cardiomegaly,
+Support Devices","Support devices, cardiomegaly, edema",
+55418359,15380734,"FINDINGS: AP and lateral views of the chest were provided.  There is a
+ moderate left pleural effusion, increased since the prior exam.  There is a
+ stable small right pleural effusion.  The pulmonary vasculature is prominent
+ consistent with pulmonary edema.  Opacity in the left lung most likely
+ represents atelectasis. The heart size is top normal and there are aortic knob
+ calcifications.  There is no pneumothorax.
+ IMPRESSION: Increased left pleural effusion and pulmonary edema.  Left lung
+ opacity most likely represents atelectasis, although an early developing
+ infiltrate cannot be entirely excluded.  Recommend repeat radiographs after
+ diuresis to rule out underlying infectious process.","Lung Opacity, Edema, Atelectasis, Pleural Effusion","Atelectasis, Edema, Lung Opacity, Pleural Effusion","Lung Opacity, Edema, Atelectasis, Pleural Effusion","Pleural effusion, edema, lung opacity",
+58005336,15338518,"FINDINGS: There is mild hyperexpansion likely due to underlying obstructive
+ lung disease.  Minimal left base atelectasis is evident.  No focal
+ consolidation or superimposed edema is noted.  Mediastinum is unremarkable. 
+ The cardiac silhouette is within normal limits for size.  No effusion or
+ pneumothorax is noted.  Degenerative changes are seen throughout the thoracic
+ spine and in bilateral shoulders.  Clips are evident posteriorly in the medial
+ left upper quadrant.
+ IMPRESSION: Likely underlying obstructive lung disease.  No superimposed
+ acute process identified.",,,Atelectasis,Atelectasis,
+50664785,13762730,"FINDINGS: The heart is markedly enlarged, as seen on prior radiographs from
+ ___.  There is haziness of the hila with diffuse, but
+ predominantly mid and lower lung heterogeneous opacities, consistent with
+ moderate pulmonary edema, likely with both interstitial and alveolar
+ components.  The descending thoracic aorta is slightly tortuous, as before. 
+ There may be small bilateral pleural effusions.  No pneumothorax.
+ IMPRESSION: Moderate pulmonary edema, likely cardiogenic in nature given
+ marked enlargement of the heart.","Cardiomegaly, Edema","Cardiomegaly, Edema","Edema, Cardiomegaly, Lung Opacity","Cardiomegaly, edema",
+55153576,13473495,"FINDINGS: There is mild-to-moderate interstitial pulmonary edema.  The heart
+ is moderately enlarged but not significantly changed in size compared to ___.  No definite pleural effusions are seen.  There is no pneumothorax.
+ IMPRESSION: Mild-to-moderate pulmonary edema, likely cardiogenic.",Edema,Edema,"Edema, Cardiomegaly","Edema, cardiomegaly",
+51951386,16116557,"FINDINGS: The lung fields are clear without focal consolidation, pleural
+ effusion, or pneumothorax.  Heart and mediastinal contours are within normal
+ limits.  Sternal wires and mitral valve replacement hardware are again seen.
+ IMPRESSION: No radiographic evidence for acute process.",,,,,
+55469953,17340686,"FINDINGS: Compared to most recent prior exam, there has been little interval
+ change.  No new consolidation, pleural effusion, or pneumothorax is
+ appreciated on this single frontal view.  Heart size is enlarged.  The aorta
+ is calcified.  Right-sided hemodialysis catheter terminates in the right
+ atrium, as seen previously.
+ IMPRESSION: Stable chest radiograph.  No significant edema.",,,"Cardiomegaly, 
+Support Devices","Cardiomegaly, support devices",
+55902256,17704774,"FINDINGS: Comparison is made to prior study from ___.
+ 
+ There is a right-sided chest tube with the distal tip within the right upper
+ lobe.  There is a persistent right-sided pneumothorax which has increased
+ slightly since the previous study.  There is now a portion of pneumothorax
+ seen along the right lower chest wall.  There remains an apical component. 
+ There is also a portion of a hydropneumothorax at the right base.  There is
+ again seen diffuse Lung opacities and nodular densities consistent with
+ widespread pulmonary metastases.  Spinal hardware is seen.  There is a
+ right-sided Port-A-Cath with the distal tip in the distal SVC in stable
+ position.
+ IMPRESSION: Slight interval increase in the right-sided pneumothorax.",Pneumothorax,Pneumothorax,"Pneumothorax, Lung Opacity, Support Devices","Pneumothorax, lung opacity, support devices",
+51322686,14841168,"FINDINGS: The study is somewhat limited secondary to positioning.  The
+ patient is markedly rotated.  Again seen is a large-bore dual-lumen catheter
+ from a left subclavian approach.  Elevation of the right hemidiaphragm is
+ again evident and slightly exaggerated.  There is engorgement of the vascular
+ pedicle and cephalization of the pulmonary vascularity, which is likely at
+ least in part due to the supine positioning.  Linear atelectasis is seen in
+ the retrocardiac left lower lobe.  No focal consolidation is seen.  The
+ mediastinum again demonstrates a tortuous aorta exaggerated by the rotation. 
+ Likewise, the cardiac silhouette is stable, but exaggerated.  No large
+ effusion is noted.  Blunting of the right costophrenic angle is relatively
+ stable.  There is no pneumothorax.
+ IMPRESSION: Limited study, but overall grossly stable.  The slight
+ engorgement is noted principally in the left hilar region may be in part due
+ to recumbency.",Enlarged Cardiomediastinum,,"Enlarged Cardiomediastinum, Atelectasis, Support Devices","Support devices, atelectasis, enlarged cardiomediastinum",
+59285132,19609215,"FINDINGS: On this study, the lungs are better expanded and the lungs appear
+ clear.  A right upper lobe granuloma is unchanged.  No pneumothorax or pleural
+ effusion is present.  The cardiac silhouette, hilar and mediastinal contours
+ appear normal.
+ IMPRESSION: No acute cardiopulmonary findings.",,,,Lung opacity,
+56093476,15881535,"FINDINGS: Lung volumes are diminished which exaggerates the cardiomediastinal
+ configuration.  However, even accounting for this change, there has been a
+ relative dramatic increase in the size of the cardiac silhouette with now
+ somewhat globular morphology.  Ill-defined opacity is noted in the
+ retrocardiac left lower lobe which is likely atelectasis given the volume
+ loss.  There is no focal consolidation.  No definite effusion or pneumothorax
+ is seen.  The osseous structures are unremarkable.  Incidental note is made of
+ internal fixation hardware, incompletely evaluated, involving the mid
+ diaphysis of the right clavicle.  Tubing loops over the epigastric region and
+ with the tip projecting at the dome of the left hemidiaphragm over the cardiac
+ silhouette.
+ IMPRESSION: Interval enlargement of the cardiac silhouette even accounting
+ for patient and technical factors.  This likely signifies at least an increase
+ in the size of the apparently known pericardial effusion.",Cardiomegaly,Cardiomegaly,"Cardiomegaly, Lung Opacity,
+Support Devices","Lung opacity, cardiomegaly, support devices",
+51131705,14841168,"FINDINGS: Comparison is made to previous study from ___.
+ 
+ There is an endotracheal tube whose tip is low, 2 cm above the carina.  This
+ could be pulled back 2 to 3 cm for more optimal placement.  There is a
+ nasogastric tube whose distal tip is poorly seen due to technique but is at
+ least to the level of the GE junction.  There is a left-sided central venous
+ catheter with distal lead tip at the cavoatrial junction, unchanged.  There is
+ unchanged cardiomegaly.  There is again seen pulmonary vascular congestion
+ which is stable.
+ IMPRESSION: 1.  Low ET tube.  This could be pulled back 2 cm for more optimal placement.
+ 
+ 2.  Nasogastric tube tip is not well seen due to technique but is at least to
+ the level of GE junction.  Recommend repeat CXR or abdominal films for further
+ evaluation of the distal tip.
+ 
+ 3.  Unchanged persistent pulmonary edema.
+ 
+ 4.  Stable cardiomegaly.","Cardiomegaly, Edema, Support Devices","Cardiomegaly, Support Devices","Cardiomegaly, Edema, Support Devices","Cardiomegaly, edema, support devices",
+59027235,11565803,"FINDINGS: Right internal jugular line ends at lower SVC/cavoatrial junction.  Patient is
+ status post median sternotomy for CABG with borderline-sized heart and sternal
+ sutures are intact.  Since ___, left lower lung atelectasis,
+ mild-to-moderate pleural effusion and mild right pleural effusion have
+ improved.  Mediastinal and hilar contours are in normal limits.
+ IMPRESSION: Since ___, bilateral lower lung atelectasis,
+ mild-to-moderate left and mild right pleural effusions have improved.","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion","Pleural Effusion, Atelectasis","Atelectasis, pleural effusion",
+58008930,15259244,"FINDINGS: Consistent with the given history, large-bore dual-lumen dialysis
+ catheter from a right internal jugular approach is in stable and standard
+ course and position from a right internal jugular approach.  A left internal
+ jugular central venous catheter device has been removed in the interval.  No
+ consolidation or edema is evident.  The mediastinum is unremarkable.  The
+ cardiac silhouette is enlarged.  This is an interval change compared to the
+ most recent prior study but has been noted on other prior studies.  Subtle
+ blunting of the right costophrenic angle suggests a tiny effusion.  No
+ pneumothorax is evident.  There are no displaced fractures.
+ IMPRESSION: Small bilateral pleural effusions.  Interval marked enlargement
+ of the cardiac silhouette relative to the most recent prior exam.  However,
+ other more remote exams have demonstrated enlargement of the silhouette,
+ thereby suggesting the possibility of waxing and waning pericardial effusion. 
+ Correlate clinically.","Cardiomegaly, Pleural Effusion","Cardiomegaly, Pleural Effusion","Cardiomegaly, Pleural Effusion,
+Support Devices","Pleural effusion, cardiomegaly, support devices",
+57537037,19016834,"FINDINGS: PA and lateral chest views were obtained with the patient in
+ upright position.  Analysis is performed in direct comparison with the next
+ preceding similar study of ___.  Previously described right subclavian
+ approach Port-A-Cath system remains in unchanged position.  The heart size and
+ mediastinal structures are also unaltered and grossly within normal limits. 
+ The pulmonary vasculature is not congested.  The previously described local
+ pleural densities have further regressed, in particular a rather bulging
+ prominence and thickening of the pleural space in the mid portion of the right
+ lateral chest wall has regressed.  Basal right-sided pleural effusion blunting
+ the lateral pleural sinus and extending into the posterior pleural sinus and
+ corresponding posterior pleural space remain unchanged.  No new abnormalities
+ are identified.  As before, general impression of COPD persists.
+ IMPRESSION: Mild regression of previously identified mostly loculated pleural
+ effusions.  No new pulmonary or cardiovascular abnormalities.",Pleural Effusion,Pleural Effusion,"Pleural Effusion,
+Support Devices","Support devices, pleural effusion",
+59712299,16826047,"FINDINGS: Both lungs are well expanded.  Very ill-defined opacity is seen on the lateral
+ view only in the posteroinferior lung overlying the lower thoracic spine which
+ is concerning for pneumonia.  Otherwise, lungs are clear.  Heart size is top
+ normal.  Mediastinal and hilar contours are normal.  There are no interstitial
+ abnormalities.  There is no pleural effusion.
+ IMPRESSION: Very faint and ill-defined opacity evident only on the lateral
+ view in the posterior-inferior lung overlying the lower thoracic spine is
+ concerning for pneumonia.
+ 
+ These findings were discussed with Dr. ___ on ___ at 4:31
+ p.m.","Lung Opacity, Pneumonia",Lung Opacity,Lung Opacity,Lung opacity,
+53401540,10305005,"FINDINGS: Both lungs are well expanded and clear.  There are no lung opacities
+ concerning for pneumonia or pulmonary edema.  Heart size is mildly enlarged
+ and stable since ___.  Mediastinal and hilar contours are unchanged. 
+ There is no pleural effusion or pneumothorax.
+ IMPRESSION: No acute cardiopulmonary process.",,,Cardiomegaly,Cardiomegaly,
+51766355,14722763,"FINDINGS: Diffuse interstitial opacities, predominantly in the right lung
+ base and probably very mild in the left lung base are present.  When compared
+ to the prior chest CT from ___, these interstitial opacities
+ appear new, and given the clinical history, likely represent lung infection
+ (atypical viral) or asymmetric pulmonary edema.  In view of history, a
+ possibility of lymphangitic carcinomatosis also needs to be ruled out. 
+ Compared with prior radiograph from ___, a dense opacity in the
+ left perihilar region, likely radiation fibrosis has significantly improved
+ over ___ to ___, as demonstrated on series of chest CT's . 
+ Heart size is mildly larger and unchanged.  Irregularity of the hilar and
+ mediastinal border is likely postradiation.  Ill-defined opacity in the left
+ mid lung corresponds to scarring and atelectasis, as suggested on review of
+ chest CT from ___.  Pleural effusion, if any, is minimal
+ bilaterally.  Bilateral lower lung bases are remarkable for mild atelectasis.
+ IMPRESSION: 1.  Diffuse interstitial opacities in the right lung and very mild in left
+ lung base, in view of history most likely reflect lung infection or asymmetric
+ pulmonary edema.  A possibility of lymphangitic spread of malignancy also
+ needs to be ruled out in view of clinical history.
+ 
+ 2.  Irregularity of the mediastinal and hilar contours is attributed to the
+ postradiation changes.
+ 
+ 3.  Ill-defined opacity in the left mild lung is likely atelectasis/scarring
+ as suggested from a concurrent review of ___ CT.
+ 
+ Follow-up radiograph is recommended at 4 wks to monitor changes.
+ 
+ Above findings were discussed with Dr. ___ on ___ at 5:45
+ p.m.",Lung Opacity,"Atelectasis, Enlarged Cardiomediastinum, Lung Opacity","Lung Opacity, Atelectasis","Lung opacity, atelectasis",Postradiation change
+52991108,14471276,"FINDINGS: AP semi-upright portable chest x-ray was provided.  Similar to the
+ prior exam, there is a moderate-to-large right-sided pleural effusion with
+ overlying atelectasis. Underlying consolidation cannot be excluded.  There has
+ been interval improvement in the left pulmonary opacities.  Cardiomediastinal
+ silhouette appears grossly stable from the prior study.  There is no
+ pneumothorax.
+ IMPRESSION: Stable moderate-to-large right-sided pleural effusion. 
+ Underlying consolidation cannot be excluded. Improvement in the left pulmonary
+ edema.","Edema, Pleural Effusion","Edema, Pleural Effusion","Pleural Effusion, Atelectasis, Edema, Lung Opacity","Pleural effusion, lung opacity, atelectasis",
+52033279,19731864,"FINDINGS: Enlarged heart size is stable since ___.  Mediastinal and hilar
+ contours are unremarkable.  Aorta is tortuous in course, unchanged in
+ appearance.  There are no lung opacities concerning for pulmonary
+ edema/pneumonia.  There is no pleural effusion.
+ IMPRESSION: Moderately enlarged heart size, stable since ___.  No
+ findings concerning for pulmonary edema or pneumonia.",Cardiomegaly,Cardiomegaly,Cardiomegaly,Cardiomegaly,
+53999109,12303667,"FINDINGS: Redemonstrated is a reticular interstitial pattern consistent with
+ known ___.  Lung volumes are low.  There is no focal consolidation, pleural
+ effusion, or pneumothorax.  Hardware is seen in the lumbar spine.
+ IMPRESSION: No acute process. Chronic interstitial changes c/w ___.",,,,,
+54001264,16772702,"FINDINGS: Portable AP semi-upright chest radiograph is obtained.  There is
+ pulmonary vascular congestion and mild pulmonary edema which is new from prior
+ exam.  No large pleural effusion or pneumothorax.  Cardiomediastinal
+ silhouette appears stable.  Bony structures are intact.
+ IMPRESSION: Pulmonary edema.",Edema,Edema,Edema,Edema,
+57045176,11880923,"FINDINGS: The lungs are clear, the cardiomediastinal silhouette and hila are
+ normal.  There is a tiny right pleural effusion. There is right hemidiaphragm
+ eventration. Nodular, rounded opacity at the left lung base likely represents
+ nipple shadow.
+ IMPRESSION: Tiny right pleural effusion.",Pleural Effusion,Pleural Effusion,Pleural Effusion,Pleural effusion,
+59372049,19748558,"FINDINGS: PA and lateral chest radiographs are provided.  There is no focal
+ consolidation, pneumothorax or pleural effusion.  The lungs are hyperinflated.
+ Cardiomediastinal silhouette is unremarkable.  There is no free air under the
+ right hemidiaphragm.  There are no concerning osseous lesions.
+ IMPRESSION: No acute cardiopulmonary process.",,,,,
+51882937,11052935,"FINDINGS: PA and lateral chest radiographs were provided.  There is a subtle
+ opacity in the right lower lobe that is concerning for early pneumonia.  There
+ is linear scarring in the left upper lobe from area of prior pneumonia that
+ has resolved.  The lungs are hyperinflated and the diaphragms are flattened,
+ consistent with COPD.  There is no pleural effusion or pneumothorax.  The
+ cardiomediastinal silhouette is unremarkable.  There is no free air under the
+ right hemidiaphragm.  There are no acute osseous lesions.
+ IMPRESSION: 1.  Possible early right lower lobe pneumonia.
+ 2.  Left upper lobe scarring from prior pneumonia.
+ 3.  Findings consistent with COPD.",,"Lung Opacity, Pneumonia",Lung Opacity,Lung opacity,
+51229730,16553329,"FINDINGS: Frontal and lateral views of the chest are obtained.  Multiple
+ calcified granulomas are noted throughout the lungs bilaterally and, unchanged
+ since the prior study.  No focal consolidation, pleural effusion, or evidence
+ of pneumothorax is seen.  The cardiac and mediastinal silhouettes are stable
+ and unremarkable.  Degenerative changes are again seen along the spine.
+ IMPRESSION: No acute cardiopulmonary process.",,,Lung Opacity,Lung opacity,
+59060938,15659181,"FINDINGS: Low lung volumes are seen which limit assessment.  There is a an
+ opacity, which obscures the right heart border, concerning for an early
+ developing right middle lobe pneumonia.  The remainder of the lungs are clear
+ without pleural effusion or pneumothorax.  The heart is normal in size. 
+ Normal cardiomediastinal silhouette.
+ IMPRESSION: Possible early developing right middle lobe pneumonia.",,Pneumonia,Lung Opacity,Lung opacity,
+56753518,14722763,"FINDINGS: Again seen are chronic interstitial changes predominantly in the
+ right lower and left mid and lower lungs.  However, there is increased density
+ of opacification in the right lower hemithorax concerning for developing
+ infection.  Considerations include atypical infection, though asymmetric
+ pulmonary edema is possible.  Given history of lung malignancy, lymphangitic
+ carcinomatosis is also a consideration.  Underlying fibrotic changes are
+ grossly similar with predominantly paramediastinal and lingular distribution. 
+ No pneumothorax or significant pleural effusion is seen.  The heart size is
+ enlarged, however, unchanged.  Of note, on the CT of ___, there
+ was a small pericardial effusion.  There are atherosclerotic calcifications of
+ the aortic arch.
+ IMPRESSION: Diffuse interstitial opacities increased predominantly in the
+ right lower lung, concerning for developing infection.  Given history of lung
+ carcinoma, however, lymphangitic spread of carcinoma as well as asymmetric
+ pulmonary edema are possibilities.","Lung Opacity, Pneumonia","Edema, Lung Lesion, Lung Opacity","Lung Opacity, Cardiomegaly","Cardiomegaly, lung opacity",
+52767831,15207316,"FINDINGS: AP upright and lateral views of the chest are obtained.  Midline
+ sternotomy wires, mediastinal clips, and AICD device are unchanged.  There is
+ pulmonary vascular congestion and mild pulmonary edema.  Small bilateral
+ pleural effusions are also noted, new.  Cardiomediastinal silhouette is
+ stable.  No pneumothorax.  Bony structures are intact.
+ IMPRESSION: Findings compatible with congestive heart failure.",Edema,Edema,"Edema, Pleural Effusion, Support Devices","Support devices, edema, pleural effusion",
+52152296,11934114,"FINDINGS: Right PICC line ends at low SVC.  Moderate right pleural effusion with
+ adjacent lung atelectasis has decreased since ___.  Minimal left
+ pleural effusion is unchanged.  There are no new lung opacities of concern for
+ pneumonia.  Heart size, mediastinal and hilar contours are stable.
+ IMPRESSION: Moderate right pleural effusion with adjacent lung atelectasis
+ has improved since ___.","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion","Pleural effusion, ateletasis, support devices",
+55980966,13978244,"FINDINGS: Semi-upright portable AP view of the chest was obtained.  Mild
+ elevation of the right hemidiaphragm is unchanged.  The heart is grossly
+ within normal limits and stable in size.  There is no definite pleural
+ effusion or focal consolidation.  Mediastinal contour is stable.  No
+ pneumothorax.  Bony structures appear intact.
+ IMPRESSION: Grossly stable exam with no acute intrathoracic process.",,,,,
+50519818,13291370,"FINDINGS: Both lungs are well expanded with mild flattening of the bilateral
+ hemidiaphragm and increased AP diameter of the chest consistent with chronic
+ pulmonary disease.  Bilateral prominent pulmonary arteries raise the concern
+ for pulmonary artery hypertension.  An ill-defined opacity is seen in
+ posterior lower lung in the retrocardiac region overlying the lower spine and
+ is concerning for pneumonia.  This opacity is not very well defined on the
+ frontal view except for a faint opacity in the right lower paracardiac region.
+ A single pacemaker lead from left pectoral pacemaker device terminates into
+ the right ventricle.  Top normal heart size, mediastinal and hilar contours
+ are unchanged since ___.  Mild atherosclerotic calcification of the
+ aortic arch is stable.
+ IMPRESSION: 1.  Ill-defined opacity appreciated only on the lateral view in the posterior
+ inferior lower lung overlying the spine shadow is concerning for pneumonia and
+ since it is not clearly defined on the frontal view, it suggests lower lobe
+ pneumonia either involving the right or left side.
+ 
+ 2.  COPD.
+ 
+ 3.  Pulmonary artery hypertension, unchanged since ___.
+ 
+ Findings were discussed with Dr. ___ on ___ at 5:55
+ p.m.","Lung Opacity, Pneumonia","Lung Opacity, Pneumonia","Lung Opacity, Support Devices","Lung opacity, support devices",
+57005451,13979643,"FINDINGS: PA and lateral views of the chest were obtained.  Lung volumes are
+ low which somewhat limits evaluation.  Fluid is noted tracking along the
+ fissural surfaces.  Mild interstitial pulmonary edema is noted.  There is no
+ focal consolidation to suggest pneumonia.  No pneumothorax.  Cardiomediastinal
+ silhouette is stable with an unfolded thoracic aorta.  Bony structures are
+ stable with multiple lower thoracic and upper lumbar compression fractures
+ better assessed on a prior CT torso from ___.  IVC filter is partially
+ visualized in the upper abdomen on the lateral view as well as surgical clips
+ in the upper quadrant.
+ IMPRESSION: Interstitial pulmonary edema.",Edema,Edema,"Edema, Support Devices, Fracture","Fracture, edema, support devices",
+56277244,15857729,"FINDINGS: PA and lateral views of the chest were obtained.  There is right
+ middle lobe consolidation involving the medial segment.  Otherwise, the lungs
+ are clear.  No large pleural effusion or pneumothorax.  Cardiomediastinal
+ silhouette appears normal.  Bony structures are intact.  No free air below the
+ right hemidiaphragm.
+ IMPRESSION: Pneumonia involving the medial segment of the right middle lobe.","Pneumonia, Consolidation",Pneumonia,Pneumonia,Pneumonia,
+57464511,18287845,"FINDINGS: PA and lateral chest radiograph is provided.  There is no focal
+ consolidation, pleural effusion or pneumothorax.  Bibasilar opacities are
+ present, more prominent on the left, which most likely represents atelectasis.
+ A pacemaker is seen with leads in appropriate positioning.  There are surgical
+ clips seen in the epigastric area.
+ IMPRESSION: No acute cardiopulmonary process.  Bibasilar opacities most
+ likely representing atelectasis.","Lung Opacity, Atelectasis","Atelectasis, Lung Opacity","Lung Opacity, Atelectasis,
+Support Devices","Lung opacity, support devices",
+53049402,13989850,"FINDINGS: Frontal and lateral views of the chest were obtained.  The lungs
+ are clear without focal consolidation.  No pleural effusion or pneumothorax is
+ seen.  Cardiac and mediastinal silhouettes are unremarkable.
+ IMPRESSION: No acute cardiopulmonary process.",,,,,
+51229977,15131736,"FINDINGS: Single AP upright portable view of the chest was obtained.  There
+ are relatively low lung volumes.  Mild elevation of the right hemidiaphragm is
+ unchanged.  There has been interval removal of endotracheal and nasogastric
+ tubes.  There is pulmonary vascular congestion.  No large pleural effusions
+ are seen, although a trace effusion on the left would be difficult to exclude.
+ No pneumothorax is seen.  The cardiac silhouette remains enlarged.
+ IMPRESSION: Pulmonary vascular congestion with persistent enlargement of the
+ cardiac silhouette.  No large pleural effusion is seen, although a small left
+ pleural effusion would be difficult to exclude.",Cardiomegaly,Cardiomegaly,Cardiomegaly,Cardiomegaly,
+58351102,14969719,"FINDINGS: Following right thoracocentesis, a large right pleural effusion has
+ substantially improved with residual mild-to-moderate fluid.  Mediastinum is
+ central in position.  Ill-defined opacity in the right upper lung is
+ consolidation unless proven otherwise.  A 5.5 discrete, nodular opacity in the
+ left mid lung is a calcified granuloma as demonstrated from CT component of
+ PET/CT dated ___. Mild atelectasis is present in the right lower
+ lung and middle lobe.  Right-sided Port-A-Cath ends at lower SVC.
+ IMPRESSION: 1.  Following thoracocentesis, large right pleural effusion has substantially
+ resolved with residual mild-to-moderate fluid and minimal right lung base and
+ middle lobe atelectasis.
+ 2.  Opacity in the right upper lobe is consolidation unless otherwise proven.
+ 3.  5.5-mm granuloma in the left mid lung","Consolidation, Atelectasis, Pleural Effusion","Atelectasis, Consolidation, Lung Opacity","Pleural Effusion, Lung Opacity, Atelectasis, Consolidation,
+Support Devices","Pleural effusion, lung opacity, atelectasis, support devices",
+52404879,15131736,"FINDINGS: There has been interval placement of an endotracheal tube, which is
+ low lying with tip approximately 1.6 cm above the carina.  An esophageal tube
+ is in place coursing inferior to the diaphragm; however, tip out of view of
+ the radiograph.  Lung volumes remain low with mild pulmonary edema.  No
+ significant pleural effusion or pneumothorax is identified.  The
+ cardiomediastinal silhouette is enlarged, however, unchanged.
+ IMPRESSION: Interval placement of endotracheal tube with tip low lying,
+ approximately 1.6 cm above the carina.  Mild pulmonary edema.  Distal tip of
+ esophageal tube not within the field of view of radiograph.
+ 
+ Findings discussed with Dr. ___ at 5:10 p.m., ___.","Edema, Support Devices","Edema, Support Devices","Edema, Support Devices, Cardiomegaly","Support devices, cardiomegaly, edema",
+57631028,12847817,"FINDINGS: An approximately 6 mm diameter rounded opacity is again
+ demonstrated in the left retrocardiac region, to the left of the descending
+ aortic interface.  It overlies the tenth left posterior rib level and is not
+ definitively calcified but overlap with rib limits this assessment.  Lungs are
+ otherwise notable for surgical chain sutures in right mid lung. 
+ Cardiomediastinal contours are within normal limits.  Left subclavian and
+ brachiocephalic vascular stents remain in place.  Minimal pleural thickening
+ versus small effusion at lateral right costophrenic sulcus.  No acute skeletal
+ findings.
+ IMPRESSION: 6 mm diameter left lower lobe opacity is unchanged since recent chest
+ radiograph, but is not fully characterized.  Considering patient's
+ immunosuppressed status and concern for acute infection, CT may be considered
+ for more complete evaluation of this region if warranted clinically.  This was
+ discussed by telephone with the physician covering for Dr. ___ at pager ___
+ on ___ at 11:50 a.m.",Lung Lesion,Lung Opacity,"Lung Opacity, Lung Lesion",Lung opacity,
+56605562,15131736,"FINDINGS: In comparison with the earlier study of this date, the endotracheal
+ tube lies approximately 5 cm above the carina.  Bibasilar opacities persist,
+ more prominent on the left, and most likely representing atelectasis and small
+ effusion.  In the appropriate clinical setting, superimposed pneumonia would
+ have to be considered.
+ 
+ Nasogastric tube extends to the distal stomach and central catheter tip is in
+ the lower portion of the SVC.  Stable cardiomegaly.
+ IMPRESSION: Little overall change.",,,"Lung Opacity, Atelectasis, Support Devices, Pneumonia, Cardiomegaly,
+Pleural Effusion","Cardiomegaly, lung opacity, support devices",
+54696391,11474065,"FINDINGS: The patient is status post right thoracotomy with a worsening
+ loculated right pleural effusion along the lateral and anterior pleura.  
+ There is diffusely increased hazy opacification of the right hemithorax,
+ mainly due to the oblique positioning of the patient.  
+ Lung volumes are low with secondary widening of the cardiomediastinal
+ silhouette.  There is only mild vascular congestion.  There is no
+ pneumothorax.
+ Unchanged chest tube.
+ IMPRESSION: 1. Since yesterday morning, only minimal worsening of the right pleural
+ effusion and atelectasis.
+ 2. Diffusely increased hazy opacification of the right hemithorax, is mainly
+ due to the oblique positioning of the patient","Lung Opacity, Atelectasis, Pleural Effusion","Atelectasis, Lung Opacity, Pleural Effusion","Pleural Effusion, Lung Opacity, Atelectasis","pleural effusion, atelectasis",
+53907259,11474065,"FINDINGS: The previously seen chest tube has been removed without evidence of
+ pneumothorax.  The right loculated pleural effusion remains.  The right
+ hemithorax appears less opacified due to improved position of the patient, but
+ mild residual diffuse opacification remains.  The cardiac silhouette remains
+ enlarged.
+ IMPRESSION: No pneumothorax after chest tube removal.",,,"Pleural Effusion, Lung Opacity, Cardiomegaly","Pleural effusion, cardiomegaly, lung opacity",
+59232798,18512911,"FINDINGS: There is moderate cardiomegaly, but no pulmonary edema.  There is
+ no pleural effusion and no pneumothorax.  There is a plate-like lingular
+ atelectasis.
+ IMPRESSION: Moderate cardiomegaly, but no pulmonary edema.  No pneumonia.",Cardiomegaly,Cardiomegaly,"Cardiomegaly, Atelectasis","cardiomegaly, atelectasis",
+52078894,14312560,"FINDINGS: Frontal and lateral views of the chest were obtained.  There are
+ relatively low lung volumes.  Mild elevation of the right hemidiaphragm
+ persists.  There is persistent right base atelectasis.  No new focal
+ consolidation is seen.  There is no pleural effusion or pneumothorax.  The
+ cardiac and mediastinal silhouettes are unremarkable.
+ IMPRESSION: No significant interval change.",,,Atelectasis,atelectasis,
+54562273,16524406,"FINDINGS: Frontal and lateral views of the chest are obtained.  No focal
+ consolidation, pleural effusion, or evidence of pneumothorax is seen.  The
+ cardiac and mediastinal silhouettes are stable.
+ IMPRESSION: No acute cardiopulmonary process.  No significant interval
+ change.",,,,,
+56094236,18224196,"FINDINGS: Small bilateral pleural effusions are increased in size compared to
+ most recent prior exam.  There is no focal consolidation.  The lungs are
+ hyperinflated with emphysematous changes as seen on prior CT.  Heart size is
+ increased, similar compared to prior.
+ IMPRESSION: 1.  Increased small bilateral pleural effusions.
+ 2.  Cardiomegaly.
+ 3.  Hyperinflated lungs corresponding with known emphysema.
+ 
+ These findings were discussed with Dr. ___ by Dr. ___ by
+ telephone at 10:32 a.m. on ___.","Cardiomegaly, Pleural Effusion","Cardiomegaly, Pleural Effusion","Pleural Effusion, Cardiomegaly","Cardiomegaly, pleural effusion",Hyperinflated lungs
+56486000,10449297,"FINDINGS: Lung volumes are low.  Elevation of the right hemidiaphragm appears
+ similar.  Cardiomegaly is again noted.  Minimal linear left basilar opacity
+ appears similar and likely represents atelectasis.  Of note, evaluation is
+ slightly limited in the absence of lateral view.  No pleural effusion or
+ pneumothorax is seen on this single view.  No focal consolidation is seen on
+ this single view.  Aortic calcifications are again noted.
+ 
+ Radiopaque material in the left abdomen may represent previously ingested oral
+ contrast.
+ IMPRESSION: Stable frontal chest radiograph.  Limited evaluation in the
+ setting of single frontal view; lateral view would be helpful for more
+ thorough evaluation.  This was discussed with Dr. ___ by Dr. ___ by phone
+ at 12:45 p.m. on ___.",,,"Cardiomegaly, Lung Opacity","Cardiomegaly, lung opacity",
+58736291,10402372,"FINDINGS: No focal consolidation, pleural effusion, or pneumothorax is seen. 
+ Heart and mediastinal contours are within normal limits.  Lungs are again
+ noted to be hyperinflated.
+ IMPRESSION: Stable chest radiographs without acute change.",,,,,
+52546073,13135946,"FINDINGS: PA and lateral views of the chest.  A PICC line ends in the
+ mid-to-low SVC.  Small bilateral pleural effusions seen only on the lateral
+ view have decreased since ___. Aside from minimal atelectasis at the
+ posterior left lung base, the lungs are clear.  The aorta is tortuous but not
+ dilated.  Heart size is normal.
+ IMPRESSION: 1.  Minimal left basal atelectasis.
+ 2.  Small bilateral pleural effusions, decreased in size compared to ___.
+ 3.  No evidence of aspiration.","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion, Support Devices","Support devices, pleural effusion, atelectasis",
+57907009,18224196,"FINDINGS: PA and lateral views of the chest.  Again seen is hyperinflation of
+ the lungs consistent with emphysema.  The previously seen pulmonary edema has
+ resolved.  The right-sided pleural effusion is stable.  The small left pleural
+ effusion is also stable.  A cluster of elliptical opacities in the left lower
+ lobe that were present on study on ___ .  There are linear opacities
+ in the left lower lobe and lingula consistent with atelectasis that have
+ improved compared to prior study.  Cardiomegaly is stable.
+ IMPRESSION: 1.  No focal consolidation.
+ 2.  Resolution of pulmonary edema.
+ 3.  Stable right and left pleural effusions.
+ 4.  Cluster of elliptical opacities in the left lower lobe that were present
+ on study in ___, recommend followup with conventional CXR when acute issues
+ have resolved.","Lung Lesion, Pleural Effusion","Lung Opacity, Pleural Effusion","Lung Lesion, Pleural Effusion, Atelectasis, Lung Opacity,Cardiomegaly","Pleural effusion, lung opacity, cardiomegaly, atelectasis",
+59155076,11474065,"FINDINGS: One portable AP view of the chest.  Again seen is mild pulmonary
+ edema, mostly on the right, with slight improvement compared to ___.  Right pleural thickening or loculated effusion is again seen and
+ unchanged.  There has been surgical removal of the right fourth rib
+ posteriorly.
+ IMPRESSION: 1.  Persistent but improved mild pulmonary edema compared to prior study on
+ ___.
+ 2.  Right pleural thickening or loculated effusion is stable.
+ 
+ These findings were discussed with ___ at 2:30pm on ___ by
+ telephone.","Edema, Pleural Other",Edema,"Edema, Pleural Effusion","Edema, pleural effusion",
+50183767,13896515,"FINDINGS: One portable AP view of the chest.  Compared to prior study on
+ ___, there is increased pulmonary edema.  There is borderline
+ cardiomegaly.  No pneumothorax or focal consolidation.  No pleural effusion.
+ IMPRESSION: Increased pulmonary edema compared to ___.
+ 
+ These findings were discussed with Dr. ___ at 2:15 p.m. on ___ by telephone.",Edema,Edema,"Edema, Cardiomegaly","Edema, cardiomegaly",
+58971994,18893199,"FINDINGS: Portable AP upright chest radiograph is obtained.  Lungs are clear
+ bilaterally.  No signs of pneumonia or CHF.  No pleural effusion or
+ pneumothorax.  Cardiomediastinal silhouette is stable.  Bony structures are
+ intact.  No free air below the right hemidiaphragm.
+ IMPRESSION: No acute intrathoracic process.",,,,,
+52329768,12303667,"FINDINGS: PA and lateral views of the chest were provided.  Patient is known
+ to have lymphangiomyomatosis.  Coarsened interstitial markings are compatible
+ with known cystic lung disease.  There is no superimposed consolidation to
+ suggest pneumonia.  No effusion or pneumothorax.  Cardiomediastinal silhouette
+ is normal.  Bony structures are intact.  No free air below the right
+ hemidiaphragm.
+ IMPRESSION: Stable chronic lung disease compatible with ___.  No superimposed
+ pneumonia.",,,,,Cystic lung disease
+56521187,11673948,"FINDINGS: PA and lateral views of the chest.  The previously seen pericardial
+ and pleural effusions have resolved.  There is no pneumothorax.  There is no
+ consolidation.  The cardiac, mediastinal, and hilar contours are normal.
+ IMPRESSION: Resolved pleural effusions and pericardial effusion.  No new
+ abnormalities noted.",,Pleural Effusion,,,
+51096107,19623993,"FINDINGS: The Dobbhoff tube has been advanced distally from its position on
+ prior abdominal radiograph.  The tip of the Dobhoff tube terminates in the
+ region of the second portion of the duodenum.  
+ 
+ The heart remains mildly enlarged with bilateral hilar opacification.  A right
+ supraclavicular central venous catheter is noted terminating in the SVC. 
+ There is no pneumothorax.  There is no abdominal free air.
+ IMPRESSION: Post-pyloric positioning of the Dobbhoff tube in the region of
+ the second portion of the duodenum.",Support Devices,Support Devices,"Lung Opacity, Support Devices, Cardiomegaly","Cardiomegaly, lung opacity, support devices",
+59876822,19765968,"FINDINGS: PA and lateral views of the chest.  A new heterogeneous opacity is
+ seen in the retrocardiac posterior left lower lobe suggestive of early
+ infiltrate.  The right lung is clear.  The heart size is unchanged.  There is
+ no pulmonary edema, pleural effusions or pneumothorax.  The cardiac,
+ mediastinal, and hilar contours are normal.  The mild compression deformities
+ of two mid thoracic vertebral bodies are stable.  No new fractures.
+ IMPRESSION: New left lower lobe early pneumonia.
+ 
+ These findings were discussed with Dr. ___ at 11:35 a.m. on
+ ___ by telephone.",Pneumonia,Pneumonia,"Pneumonia, Lung Opacity",Pneumonia,
+51406657,19623993,"FINDINGS: A right internal jugular venous catheter tip projects within the mid SVC.  An
+ enteric feeding tube tip is demonstrated in the region of the pylorus.  Since
+ the prior examination there has been interval worsening of now moderate
+ interstitial pulmonary edema.  There are small bilateral pleural effusions. 
+ There is left retrocardiac atelectasis.  There is no evidence of pneumothorax.
+ The cardiomediastinal and hilar contours are stable, demonstrating moderate
+ cardiomegaly.
+ IMPRESSION: 1.  Interval worsening of now moderate interstitial pulmonary edema.
+ 2.  Dobbhoff tube tip is demonstrated in the region of the pylorus and a
+ post-pyloric position cannot be confirmed.","Edema, Support Devices","Edema, Support Devices","Pleural Effusion, Edema, Atelectasis, Support Devices, Cardiomegaly","Pleural effusion, edema, atelectasis, cardiomegaly, support devices",
+51009376,13484161,"FINDINGS: Since the prior examination, interstitial pulmonary edema is
+ resolved.  There are no focal opacities concerning for pneumonia.  There is a
+ trace left pleural effusion.  There is no right effusion.  There is no
+ evidence of pneumothorax.  The cardiomediastinal and hilar contours are stable
+ demonstrating mild tortuosity of thoracic aorta and cardiomegaly.  Pulmonary
+ vascularity is within normal limits.
+ IMPRESSION: 1.  No evidence of focal pneumonia.
+ 2.  Interval resolution of interstitial pulmonary edema.",,,"Pleural Effusion, Cardiomegaly","Pleural effusion, cardiomegaly",
+55650924,15192710,"FINDINGS: Increased focal opacification demonstrated within the left lower lobe in
+ setting of known transbronchial biopsy is likely related to focal hemorrhage
+ superimposed on known area of focal opacification/though is out of proportion
+ to expected.  There is no pneumothorax or pleural effusion.  Bronchiectasis of
+ the left lower lobe is unchanged.  The cardiomediastinal and hilar contours
+ are stable demonstrating mild tortuosity of the thoracic aorta.  Heart size is
+ within normal limits.  Incidentally noted is a benign bone island demonstrated
+ within the left humeral head.
+ IMPRESSION: Interval increase in opacification in the left lower lobe that in
+ the setting of known transbronchial biopsy is likely related to hemorrhage
+ superimposed on the known previously noted focal opacification, though
+ aspiration and interval progression of the disease process are also
+ possibilities.  No evidence of pneumothorax.",Lung Opacity,Lung Opacity,Lung Opacity,Lung opacity,
+50109176,13202100,"FINDINGS: Frontal and lateral views of the chest demonstrate low lung volumes, which
+ accentuate bronchovascular markings.  There is no focal consolidation, pleural
+ effusion or pneumothorax.  The hilar and mediastinal silhouettes are
+ unremarkable.  Heart size is top normal.  Partially imaged upper abdomen
+ demonstrates prominent air-filled large bowel loops.
+ IMPRESSION: No evidence of acute cardiopulmonary process.",,,,,
+58395298,16360107,"FINDINGS: Portable AP view of the chest demonstrates low lung volumes.  A
+ moderate-to-large loculated right pleural effusion is longstanding, but
+ appears increased in size from prior exam.  Moderate loculated left pleural
+ effusion is unchanged from prior.  Bibasilar opacities are noted.  There is
+ prominence of the right mediastinum, suggestive of vascular congestion. 
+ Aortic arch calcifications are noted.  Heart size is top normal.  Mild
+ pulmonary edema is present.  Sternotomy wires are noted.  Multiple surgical
+ clips project over left cardiac border.
+ IMPRESSION: Moderate-to-large loculated right pleural effusion appears increased in size
+ from prior exam.  Moderate left pleural effusion is unchanged.  Bibasilar
+ opacities likely represent atelectasis or infection in the appropriate
+ clinical setting.  Mild pulmonary edema.","Edema, Pleural Effusion","Edema, Lung Opacity, Pleural Effusion","Edema, Pleural Effusion, Lung Opacity, Support Devices","Support devices, edema, pleural effusion, lung opacity",
+55430447,11893091,"FINDINGS: Single portable view of the chest demonstrates normal lung volumes. 
+ Costophrenic angles are minimally blunted, suggestive of trace pleural
+ effusions.  Bibasilar opacities obscure hemidiaphragms.  Right lung base
+ opacity is more conspicuous on today's exam.  Moderate pulmonary edema.  Hilar
+ and mediastinal silhouettes are unremarkable.  Heart is mildly enlarged.
+ IMPRESSION: Moderate pulmonary edema with mild cardiomegaly and possible trace pleural
+ effusions, progressed from ___ exam.","Cardiomegaly, Edema","Cardiomegaly, Edema","Cardiomegaly, Edema, Lung Opacity","Cardiomegaly, edema, lung opacity",
+52548008,19623993,"FINDINGS: The right internal jugular approach venous catheter remains in the mid SVC. 
+ An enteric feeding cord tube courses through the stomach out of field of view.
+ There are scattered areas of linear atelectasis.  There is persistent moderate
+ interstitial pulmonary edema.  There are no new focal opacities concerning for
+ pneumonia.  There are no pleural effusions or pneumothorax.  The
+ cardiomediastinal and hilar contours are stable demonstrating moderate
+ cardiomegaly.
+ IMPRESSION: No significant interval change.  Moderate interstitial pulmonary
+ edema.",Edema,Edema,"Edema, Atelectasis, Cardiomegaly,  Support Devices","Support devices, atelectasis, edema, cardiomegaly",
+59937017,14969719,"FINDINGS: There is little change since ___. A right subclavian approach port tip
+ remains in the lower SVC. two chest tubes overlie the right base with lucency
+ demonstrated about one, which may represent a small basilar pneumothorax.
+ 
+ There is a moderate right pleural effusion with pleural fluid demonstrated
+ layering along the apex and also demonstrated along medially adjacent to the
+ mediastinum.  There is persistent asymmetric opacification with increased
+ asymmetric pulmonary vascularity involving the right lung.  There is moderate
+ right lower lobe atelectasis and minimal left basilar atelectasis.  There is
+ no evidence of pneumothorax.  The cardiomediastinal and hilar contours are
+ stable.  A calcified lymph node is demonstrated in the region of the
+ aortopulmonary window, stable since ___.  Evaluation of her heart size is
+ limited in the setting of diffuse right-sided central opacification.
+ IMPRESSION: No significant change since ___. A moderate right pleural
+ effusion and asymmetric opacification involving the right hemithorax is likely
+ related to progressive changes related to her known disease process/and or a
+ component of asymmetric edema.","Lung Opacity, Edema, Pleural Effusion","Edema, Lung Opacity, Pleural Effusion","Pleural Effusion, Lung Opacy, Atelectasis, Support Devices","Pleural effusion, ateletasis, support devices, lung opacity",
+54128006,15393401,"FINDINGS: Frontal and lateral views of the chest are obtained.  There is
+ persistent bibasilar atelectasis.  No new focal consolidation, large pleural
+ effusion, or evidence of pneumothorax is seen.  The cardiac and mediastinal
+ silhouettes are stable.
+ IMPRESSION: No other significant interval change aside from possible decrease
+ in small left pleural effusion noted on the prior study.",Pleural Effusion,Pleural Effusion,Atelectasis,Atelectasis,
+54809707,17318449,"FINDINGS: Frontal and lateral views of the chest are obtained.  The patient
+ is status post median sternotomy.  The cardiac and mediastinal silhouettes are
+ stable.  No focal consolidation, pleural effusion, or evidence of pneumothorax
+ is seen.  Evidence of DISH is seen along the thoracic spine.
+ IMPRESSION: No acute cardiopulmonary process.  No significant interval
+ change.",,,,,Diffuse ideopathic skeletal hyperostosis (DISH)
+56661680,15192710,"FINDINGS: AP upright portable view of the chest was obtained.  In the
+ interval since the prior study, there has been development of a very large
+ left pneumothorax with collapse of the left lung.  There may be slight tension
+ component.  The right lung is clear.  No pleural effusion.  The left cardiac
+ border appears somewhat flattened, which may be due to tension.
+ IMPRESSION: Interval development of large left pneumothorax.  The above
+ findings were discussed with Dr. ___ at 9:___ p.m. via telephone on
+ ___.",Pneumothorax,Pneumothorax,Pneumothorax,Pneumothorax,
+55815964,15192710,"FINDINGS: Single AP erect portable view of the chest was obtained.  There has
+ been interval placement of a left-sided chest tube which appears to terminate
+ approximately at the level of the medial left diaphragm and may extend to the
+ mediastinum.  There has been re-expansion of the left lung with opacity in the
+ left mid-to-lower lung which could be due to pulmonary hemorrhage/contusion,
+ partial collapse, or less likely infection.  Subcutaneous emphysema is seen
+ along the left chest wall.
+ IMPRESSION: Interval placement of left chest tube with reexpansion of the
+ left lung, with opacity/consolidation in the left mid-to-lower lung fields
+ with shift of the mediastinum to the left may be due to partial lung collapse,
+ although underlying pulmonary contusion/hemorrhage is may be present.  The
+ left chest tube appears to extend to the level of the medial left diaphragm
+ and may encroach upon the mediastinum.  Left chest wall subcutaneous
+ emphysema.","Lung Opacity, Consolidation, Support Devices","Consolidation, Enlarged Cardiomediastinum, Lung Opacity, Support Devices","Lung Opacity, Consolidation, Support Devices","Lung opacity, support devices",subcutaneous emphysema
+59884344,15192710,"FINDINGS: One portable AP upright view of the chest.  No pneumothorax is
+ seen.  Subcutaneous air is unchanged.  The left lower lobe opacity is
+ unchanged.  Right lung is clear.  The cardiac, mediastinal, and hilar contours
+ are normal.  The most superior portions of the apices are slightly obscured by
+ patient's chin.
+ IMPRESSION: 1.  No interval pneumothorax seen; however, the most superior portion of the
+ apices are slightly blurred by the patient's chin.
+ 
+ 2.  Left lower lobe opacity and subcutaneous are are unchanged.",Lung Opacity,Lung Opacity,Lung Opacity,Lung opacity,subcutaneous emphysema
+51759935,10715477,"FINDINGS: Moderately enlarged heart size is smaller than it was on ___. 
+ Both lung volumes have improved.  Bilateral pleural effusions, if any, are
+ minimal and unchanged.  Bilateral lower lung atelectasis are present but
+ significantly improved since ___.  Mediastinal and hilar
+ contours are normal.  Patient is status post median sternotomy with intact
+ sternal sutures.  Mild-to-moderate atherosclerotic calcification is present in
+ the aortic arch.  Internal jugular line through left-sided approach terminates
+ at lower SVC.  No discrete lung opacities concerning for pneumonia.
+ IMPRESSION: Since ___, moderately enlarged heart, mild
+ bilateral pleural effusions and lung aeration have improved","Cardiomegaly, Pleural Effusion","Cardiomegaly, Pleural Effusion","Cardiomegaly, Pleural Effusion, Atelectasis, Support Devices","Atelectasis, support devices, cardiomegaly, pleural effusion",
+55739720,16853729,"FINDINGS: Both the lungs are well expanded.  No focal pulmonary opacity 
+ concerning for pneumonia.  No pleural effusion or pneumothorax.  The heart
+ size is top normal.  Cardiomediastinal silhouette is unremarkable.
+ IMPRESSION: No acute cardiopulmonary process.",,,,,
+55681597,13120957,"FINDINGS: No focal consolidation, pleural effusion, or pneumothorax is seen. 
+ Linear retrocardiac densities were seen previously and may represent
+ atelectasis.  Lung volumes are low, exaggerating pulmonary vasculature and
+ hila.  Heart and mediastinal contours appear similar compared to prior.  There
+ is no evidence for free intraperitoneal air below the diaphragms.
+ IMPRESSION: Low lung volumes without radiographic evidence for acute process.
+ Bibasilar atelectasis.  No evidence of free air beneath the diaphragms.",Atelectasis,Atelectasis,Atelectasis,Atelectasis,
+50848970,19715857,"FINDINGS: There is mild cardiomegaly and moderate pulmonary edema as well as
+ small (right greater than left) pleural effusions.  No pneumothorax. Severe
+ degenerative changes at the right glenohumeral joint.
+ IMPRESSION: Moderate pulmonary edema.",Edema,Edema,"Edema, Cardiomegaly, Pleural Effusion","Cardiomegaly, edema, pleural effusion",
+55227594,14236258,"FINDINGS: Single frontal view of the chest in semi-erect position
+ demonstrates stable position of a dual-channel central venous catheter with
+ tip terminating in the upper right atrium.  The patient is slightly rotated to
+ the left.  Cardiomediastinal silhouette is within normal limits.  Multiple
+ clips are seen overlying the right apex.  Rightward upper tracheal
+ displacement is related to known enlarged left thyroid lobe as seen on CT
+ dated ___.  The lungs are clear with trace, if any, basilar
+ atelectasis.  There is no pneumothorax, vascular congestion, or pleural
+ effusion.  Multiple remote fractures are seen on the left posteriorly,
+ unchanged.
+ IMPRESSION: No definite evidence to suggest pneumonia or fluid overload.","Atelectasis, Fracture, Support Devices",,"Fracture, Support Devices","Fracture, support devices",
+59560734,13849733,"FINDINGS: There are stable fibrotic changes involving both lungs with left
+ apical scarring related to known prior tuberculosis exposure.  There is a
+ stable moderate layering right pleural effusion since ___.  There are
+ no new focally occurring parenchymal opacities concerning for pneumonia. 
+ There is no evidence of pneumothorax.  Cardiomediastinal and hilar contours
+ are stable, with heart size within the upper limits of normal.  Pulmonary
+ vascularity is not increased.
+ IMPRESSION: Stable layering moderate right pleural effusion since ___.",Pleural Effusion,Pleural Effusion,Pleural Effusion,Pleural effusion,
+54937394,19623993,"FINDINGS: A right internal jugular approach central venous catheter tip projects within
+ the mid SVC.  A left internal jugular approach Swan-Ganz catheter tip is
+ within the main pulmonary artery.  An endotracheal tube is 4.8 cm above the
+ carina.  Enteric feeding tube courses below the diaphragm.  A right basilar
+ chest tube is in stable position.  Interstitial pulmonary edema is improved,
+ with remaining mild pulmonary vascular congestion.  There is bibasilar
+ opacification, likely atelectasis with low lung volumes.  There are no new
+ focal opacities concerning for pneumonia.  There are no pleural effusions or
+ pneumothorax.  The cardiomediastinal and hilar contours are stable.  There is
+ moderate cardiomegaly.
+ IMPRESSION: Improvement in interstitial edema with otherwise no significant
+ change.",Edema,Edema,"Edema, Lung Opacity, Support Devices, Cardiomegaly","Support devices, edema, cardiomegaly, lung opacity",
+59281953,10959054,"FINDINGS: Since the examination from ___, right basilar nodular opacification is
+ improved.  There is a persistence of a moderate layering pulmonary effusion on
+ the right.  In addition, there is increased opacification in the right lower
+ lobe, improved since ___.  There are no new focal opacities concerning
+ for pneumonia.  There is no pneumothorax.  The cardiomediastinal and hilar
+ contours are stable, with mild cardiomegaly.  Pulmonary vascularity is not
+ increased.
+ IMPRESSION: Moderate layering right subpulmonic pleural effusion.  Otherwise,
+ mild improvement in right basilar atelectasis.","Atelectasis, Pleural Effusion","Atelectasis, Pleural Effusion","Lung Opacity, Atelectasis, Pleural Effusion, Cardiomegaly","Cardiomegaly, pleural effusion, atelectasis, lung opacity",
+59480672,18659631,"FINDINGS: PA and lateral views of the chest.  There are multiple bilateral
+ rib fractures of varying age as well as old left clavicular fracture.  Large
+ hiatal hernia.   A heterogeneous opacity concerning for pneumonia is seen in
+ the inferolateral right upper lobe.  The left lung is clear.  There is no
+ pleural effusion.  No pneumothorax.  There is no pulmonary vascular
+ congestion.  The cardiac, mediastinal, and hilar contours are normal.
+ IMPRESSION: 1.  Right upper lobe pneumonia.
+ 2.  Multiple rib fractures of varying age.  Old left clavicular fracture.
+ 3.  Stable large hiatal hernia.
+ 
+ These findings were discussed with Dr. ___ at 3:30 p.m. on
+ ___ by telephone.","Pneumonia, Fracture","Fracture, Pneumonia","Pneumonia, Fracture","Pneumonia, fracture",Hiatal hernia
+57664750,19890786,"FINDINGS: AP upright portable chest radiograph is obtained.  Overall, there
+ is no significant change from the recent CT performed ___ with
+ innumerable metastatic nodularity involving both lungs and large consolidation
+ occupying the right lower lung with a small to moderate right pleural
+ effusion.  There is no new area of atelectasis or new area of confluent
+ opacity to suggest a superimposed pneumonia, though given the extensive
+ underlying lung disease, a subtle acute process would be impossible to
+ exclude.  Heart size cannot be assessed.  Mediastinal contour is stable.  No
+ pneumothorax is seen.  Bony structures appear stable.  Known metastatic
+ lesions involving the inferior scapulae are not clearly visualized as well as
+ the recently diagnosed nondisplaced fracture involving the right posterior
+ eighth rib.
+ IMPRESSION: Overall stable exam with extensive metastatic disease to the
+ lungs with right pleural effusion and right basal consolidation.","Lung Lesion, Consolidation, Pleural Effusion","Consolidation, Pleural Effusion","Pleural Effusion, Consolidation, Fracture","Fracture, consolidation, pleural effusion, lung opacity",
+50128467,10959054,"FINDINGS: Since the prior examination there is little change.  There is no evidence of
+ pneumothorax.  There is a moderate subpulmonic pleural effusion as better
+ demonstrated on the prior lateral radiograph.  There is a new small left
+ layering pleural effusion.  There are no new focal opacities concerning for
+ pneumonia.  Cardiomediastinal and hilar contours are stable demonstrating mild
+ tortuosity of the thoracic aorta.  Heart size is within normal limits. 
+ Pulmonary vascularity is normal.
+ IMPRESSION: No evidence of pneumothorax.  Little change in subpulmonic right
+ pleural effusion as better demonstrated on radiographs from ___ a.m..",Pleural Effusion,Pleural Effusion,Pleural Effusion,Pleural effusion,
+53128548,15896572,"FINDINGS: Single AP upright portable view of the chest was obtained.  The
+ lungs remain hyperinflated, consistent with chronic obstructive pulmonary
+ disease.  The cardiac silhouette is enlarged.  Evidence of hiatal hernia is
+ again seen.  The aorta is calcified and tortuous.  There is mild pulmonary
+ vascular congestion.  There is blunting of the right costophrenic angle which
+ may be due to overlying soft tissue, though a small pleural effusion cannot be
+ excluded.  Bibasilar atelectasis is seen without discrete focal consolidation.
+ IMPRESSION: 1.  Cardiomegaly and minimal pulmonary vascular congestion.  Blunting of the
+ right costophrenic angle may be due to overlying soft tissue, although a trace
+ effusion cannot be excluded.
+ 2.  Hiatal hernia.","Cardiomegaly, Pleural Other",Cardiomegaly,"Cardiomegaly, Atelectasis","Cardiomegaly, atelectasis",Hiatal hernia
+57571408,17206933,"FINDINGS: Since ___, there has been continued progressive consolidation involving
+ the left lung with asymmetric opacification distributed throughout the right
+ hemithorax most compatible with multifocal pneumonia.  There are superimposed
+ areas of bibasilar atelectasis.  There are no pleural effusions or
+ pneumothorax.  The cardiomediastinal and hilar contours are stable, with the
+ heart borderline enlarged.  There is tortuosity and atherosclerotic
+ calcification within the thoracic aorta.
+ IMPRESSION: Increased asymmetric opacification involving the left lung
+ compatible with worsening multifocal pneumonia.","Lung Opacity, Pneumonia","Lung Opacity, Pneumonia","Pneumonia, Atelectasis, Lung Opacity, Consolidation","Pneumonia, atelectasis, consolidation",
+56234141,14969719,"FINDINGS: One portable upright AP view of the chest.  A moderate right
+ pleural effusion with fluid layering along the lateral right lung and apex as
+ well as medially adjacent to the mediastinum is unchanged.  Mild right lower
+ lobe atelectasis is unchanged.  The cardiac, mediastinal and hilar contours
+ are stable.  Calcified lymph node in the aortopulmonary window is unchanged. 
+ The left lung is clear.  No left pleural effusion.
+ IMPRESSION: No significant change in moderate right pleural effusion.",Pleural Effusion,Pleural Effusion,"Pleural Effusion, Atelectasis","Pleural effusion, atelectasis",
+50894711,15186992,"FINDINGS: ONE AP PORTABLE UPRIGHT VIEW OF THE CHEST.  A previously seen
+ cavity in the left lung is no longer present.  In that location, there are
+ linear interstitial opacities likely from fibrosis from scarring in that area
+ or may represent pneumonia.  Mild bibasilar atelectasis.  The mediastinal and
+ hilar contours are normal.  There is no pneumothorax.  There are low lung
+ volumes.
+ IMPRESSION: 1.  Linear opacities in the left mid lung may represent residual scarring from
+ prior cavitary lesion or could represent new pneumonia.
+ 
+ 2.  Right basilar atelectasis.","Lung Opacity, Atelectasis","Atelectasis, Lung Lesion, Lung Opacity","Lung Opacity, Atelectasis","Atelectasis, lung opacity",
+58414605,13849733,"FINDINGS: There has been mild interval decrease of a still moderate right pleural
+ effusion.  There is increased opacification involving the right mid lung zone,
+ likely atelectasis and effusion.  There are stable fibrotic changes involving
+ both lungs with left apical scarring compatible with known prior tuberculosis
+ exposure.  There are no new focally occurring opacities concerning for
+ pneumonia.  There is no evidence of pneumothorax.  Cardiomediastinal and hilar
+ contours are stable, with the heart size within the upper limits of normal. 
+ Pulmonary vascularity is not increased.  There are multiple healed right rib
+ deformities.
+ IMPRESSION: Status post right-sided thoracentesis with still a moderate
+ layering right pleural effusion.  No evidence of pneumothorax.",Pleural Effusion,Pleural Effusion,"Pleural Effusion, Lung Opacity","Pleural effusion, lung opacity",
+52356321,11607628,"FINDINGS: Frontal and lateral views of the chest demonstrate left pectoral
+ single lead AICD with stable position of lead terminating in the right
+ ventricle.  The heart appears globular and enlarged, more pronounced as
+ compared to ___, morphology suggestive of pericardial effusion. 
+ There is plate-like atelectasis in the left base with associated pleural
+ effusion, which is decreased since preceding exam.  There is no pneumothorax
+ or frank edema.  Mild blunting of the right costophrenic angle is unchanged.
+ IMPRESSION: 1.  Short interval development of massive cardiomegaly with globular
+ configuration, concerning for pericardial effusion.
+ 
+ 2.  Trace left effusion with plate-like atelectasis.  Possible trace right
+ effusion, unchanged. 
+ 
+ Findings reported to Dr. ___ by phone at 4 a.m. on ___.","Cardiomegaly, Atelectasis, Pleural Effusion","Atelectasis, Cardiomegaly, Pleural Effusion, Support Devices","Cardiomegaly, Atelectasis, Pleural Effusion, Support Devices","Support devices, cardiomegaly, atelectasis, pleural effusion",Pericardial effusion

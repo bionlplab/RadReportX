@@ -31,6 +31,15 @@ tune run lora_finetune_single_device --config ./8B_lora_single_device.yaml
 inference.py provides sample usage for inference. It is based on the sample MIMIC-CXR dataset.
 The prompts used for inference are listed in prompts.py. The two supported tasks are listed in the introduction section.
 
+## Reference
+
+This repository contains source codes for the work introduced in this following paper:
+
+"""
+Wei Y, Wang X, Ong H, Zhou Y, Flanders A, Shih G, Peng Y. Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels. arXiv preprint arXiv:2409.16563. 2024 Sep 25.
+"""
+
+
 ## Acknowledgment
 
 This work was supported by the National Science Foundation Faculty Early Career Development (CAREER) award number

@@ -30,3 +30,8 @@ tune run lora_finetune_single_device --config ./8B_lora_single_device.yaml
 ### Inference/Usage
 inference.py provides sample usage for inference. It is based on the sample MIMIC-CXR dataset.
 The prompts used for inference are listed in prompts.py. The two supported tasks are listed in the introduction section.
+
+## Acknowledgment
+
+This work was supported by the National Science Foundation Faculty Early Career Development (CAREER) award number
+2145640, the Intramural Research Program of the National Institutes of Health, and the Amazon Research Award. The Medical Imaging and Data Resource Center (MIDRC) is funded by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the National Institutes of Health under contract 75N92020D00021 and through The Advanced Research Projects Agency for Health (ARPA-H).

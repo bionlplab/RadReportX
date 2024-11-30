@@ -22,9 +22,9 @@ The base model is Llama3.1-8B-Instruct. The model is uploaded on https://hugging
 
 `gpt_data_generate.py`: Leverage GPT4-o to extract entities from radiology reports. Input is csv file containing the notes of interest.
 
-### Fine tune model
+### Fine-tune model
 
-The fine tuning is based on [torchtune framework](https://github.com/pytorch/torchtune). Revise the related fields in 8B_lora_single_device.yaml
+The fine-tuning is based on [torchtune framework](https://github.com/pytorch/torchtune). Revise the related fields in 8B_lora_single_device.yaml
 
 ```
 tune run lora_finetune_single_device --config ./8B_lora_single_device.yaml
@@ -38,11 +38,7 @@ The prompts used for inference are listed in prompts.py. The two supported tasks
 
 This repository contains source codes for the work introduced in the following paper:
 
-```
-Wei Y, Wang X, Ong H, Zhou Y, Flanders A, Shih G, Peng Y.
-Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels.
-arXiv preprint arXiv:2409.16563. 2024 Sep 25.
-```
+Wei Y, Wang X, Ong H, Zhou Y, Flanders A, Shih G, Peng Y. Enhancing disease detection in radiology reports through fine-tuning lightweight LLM on weak labels. arXiv preprint arXiv:2409.16563. 2024 Sep 25.
 
 
 ## Acknowledgment
